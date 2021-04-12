@@ -1,4 +1,4 @@
-There are two delivered documents respectively for business requirement design & analysis and system workflow & entity relationships. If you want to view these two documents, you can choose either to access it via google drive: https://drive.google.com/file/d/1EZi_bmPDRJwcoSdGyaQ5O7p4JSiEwsd5/view?usp=sharing and https://drive.google.com/file/d/1bNd2IV2oBYH_enpfRD578bLtHZcTOl6A/view?usp=sharing, or download it to your local disk.
+
 -------------------------------------------------------------------------------------------------
 The background of "IT Solution Report for A Traditional Supermarket" is:
 A supermarket called GetFreshFood seeks a digital solution for its daily maintainence in order to increase staff's work effiency and mitigate the discrenpencies caused by manual mistake.
